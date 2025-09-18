@@ -55,14 +55,6 @@
 
 ---
 
-## 📊 GitHub Activity  
 
-🔥 Contribution Streak:  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinitha-giri&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-
-👀 Profile Views:  
-![Profile Views](https://komarev.com/ghpvc/?username=vinitha-giri&color=ff69b4&style=for-the-badge)  
-
----
 
 ✨ _“Code is not just logic, it’s creativity put into motion.”_ 🌈  
